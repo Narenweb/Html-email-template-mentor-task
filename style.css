@@ -13,10 +13,11 @@ body{
 
 }
 table{
-    display: flex;
+    display: inline-flex;
     justify-content: center;
-    margin-top: 88px;
+    margin: 88px 0 0 260px;
     object-fit: contain;
+    background-color: f2f7fb;
 }
 
 /* Logo image */
