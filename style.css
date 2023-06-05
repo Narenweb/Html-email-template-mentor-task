@@ -5,7 +5,7 @@ body{
 .Container {
     display: inline-flex;
     flex-direction: column;
-    margin: 11px 760px 0 250px;
+    margin: 11px 60px 0 250px;
     border-radius: 10px;
   box-shadow: 0 2px 74px 0 var(--black-7);
   background-color:white;
